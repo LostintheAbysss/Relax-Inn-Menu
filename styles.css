@@ -1,0 +1,94 @@
+body{
+    background-image: url(https://www.tourmyindia.com/states/goa/image/arambol-beach-banner.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: serif;
+    padding: 20px;
+}
+.menu{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    background-repeat: no-repeat;
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(25px);
+    border: 1px solid black;
+    border-radius: 10px;
+}
+ 
+h1 , h2 , p {
+    text-align: center;
+ }
+ 
+ .item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+ }
+ .food {
+    text-align: left;
+    width: 75%;
+ }
+
+ .price {
+    text-align: right;
+    width: 25%;
+  }
+ 
+  .restaurant{
+    font-style: italic;
+    margin-top: 0%;
+    font-size: 18px;
+  }
+
+  h1{
+  font-size: 50px;
+  font-family: Impact, sans-serif;
+  }
+
+  h2 {
+    font-size: 30px;
+    font-family: 'Segoe UI',Verdana, sans-serif;
+   
+  }
+  .name{
+    margin-bottom: 3px;
+  }
+
+  .icon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+  }
+  hr {
+    height: 2px;
+    background-color: black;
+    border-color: black;
+  }
+  p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  /* FOOTER*/ 
+
+  footer{
+    font-size: 15px;
+  }
+
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: azure;
+  }
+  
+  a:active {
+    color: azure;
+  }
